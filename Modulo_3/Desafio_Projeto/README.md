@@ -27,5 +27,20 @@ As seguintes etapas foram realizadas com sucesso durante o desafio:
 15. Agrupamento dos dados para saber quantos colaboradores existem por gerente.
 16. Eliminação das colunas desnecessárias de cada tabela.
 
+## O que é mesclar consulta no Power Query?
+É a combinação de duas consultas com base em uma coluna comum, semelhante a uma operação de junção em bancos de dados. Você pode criar uma única tabela combinando informações de duas tabelas diferentes.
+
+## O que é acrescentar consulta no Power Query?
+Simplesmente adicionar os resultados de uma consulta ao final de outra consulta, sem combinar os dados com base em uma chave específica.
+
+Em resumo, "Mesclar Consultas" é útil quando você precisa combinar dados com base em uma chave comum, enquanto "Acrescentar Consultas" é útil quando deseja simplesmente adicionar os resultados de uma consulta ao final de outra consulta.
+
+## Mesclar Consulta vs. Acrescentar Consulta no Power Query: Tabela Comparativa
+
+| Funcionalidade | Descrição | Tipo de Junção | Cenários de Uso |
+|---|---|---|---|
+| **Mesclar Consultas** | Combina dados de duas consultas com base em colunas correspondentes. | Interna, externa esquerda, externa direita, cruzada | Tabelas relacionadas, dados com colunas em comum |
+| **Acrescentar Consultas** | Combina dados de várias consultas, uma após a outra, em uma única consulta. | Sem junção | Tabelas sem colunas em comum, dados de diferentes períodos/categorias |
+
 ## Instruções de Uso
 Para reproduzir ou entender melhor as etapas realizadas, siga as instruções contidas nos arquivos deste repositório.
