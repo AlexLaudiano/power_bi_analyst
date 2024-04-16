@@ -11,3 +11,9 @@ A formação engloba a criação de visualizações personalizadas, o uso de rec
 
 ## Pré-requisitos
 ⚠️ Conceitos básicos em SQL, Excel e Modelagem de dados relacional.
+
+### Observações:
+- O material aqui disponível é para fins didáticos e não deve ser utilizado como referência profissional.
+
+### Agradecimentos:
+Agradeço aos criadores e instrutores do curso de Formação Power BI Analist da DIO por proporcionar esta oportunidade de aprendizado.
