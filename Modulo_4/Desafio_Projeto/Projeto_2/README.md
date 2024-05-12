@@ -8,10 +8,6 @@ O projeto encontra-se dentro da pasta Projeto_2 da seguinte forma:
 - **Imagem**: Imagem relacionada ao projeto final.
 - **Modelo.pbix**: Arquivo principal do Power BI contendo o modelo de dados final.
 
-## Imagem do Star Schema:
-
-![imagem_star_schema](https://github.com/alexlaudiano/power_bi_analyst/edit/main/Modulo_4/Desafio_Projeto/Projeto_2/starschema_tbvendas.png)
-
 ## Processo de Construção do Diagrama
 O processo de construção do diagrama seguiu as seguintes etapas:
 - **Análise dos Dados**: Iniciamos analisando a estrutura e os tipos de dados presentes na tabela original de Financial Sample.
